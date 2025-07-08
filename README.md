@@ -1,100 +1,100 @@
-# 👩‍💻 Krittika Roy
+<h1 align="center">👩‍💻 Krittika Roy</h1>
 
-🎓 **Computer Science & Engineering Graduate | Research Assistant | Aspiring Software Engineer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational)](https://krittikaroy0.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/krittika-roy-516629281/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/krittikaroy0)
-
----
-
-## 🚀 About Me
-
-I am a dedicated and passionate Computer Science and Engineering graduate currently working as a **Research Assistant at East West University** while pursuing my **M.Sc in CSE at Jagannath University**. I am focused on building impactful software solutions while actively contributing to research, networking, and clean code practices.
-
-I possess:
-- Strong programming foundations in **C, Java, Python**
-- Full-stack development experience using **HTML, CSS, JavaScript, PHP, Laravel, MySQL**
-- Interest in **image processing, AI, data science, and networking**
-- Experience with tools like **Git, Cisco Packet Tracer, Figma, Oracle Apex, Adobe Photoshop, and AutoCAD**
+<p align="center">
+🎓 Computer Science & Engineering Graduate | 🧑‍🔬 Research Assistant | 💻 Developer
+<br>
+<a href="https://krittikaroy0.github.io/portfolio/">🌐 Portfolio</a> • 
+<a href="https://www.linkedin.com/in/krittika-roy-516629281/">💼 LinkedIn</a> • 
+<a href="mailto:krittikaroy2020@gmail.com">✉️ Email</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-- **Languages:** C, Java, Python, JavaScript, PHP, PLSQL, XML
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Backend:** PHP, Laravel
-- **Database:** MySQL
-- **Tools:** Git, Cisco Packet Tracer, Adobe Photoshop, Figma, Draw.io
-- **Frameworks:** Oracle Apex, VGG16/VGG19, ResNet50, CNN models
-- **Others:** MS Office Suite, Google Workspace, Eclipse, Colab
+Hello! I’m **Krittika Roy**, a passionate **Computer Science & Engineering graduate** currently working as a **Research Assistant at East West University** while pursuing my **M.Sc. in CSE at Jagannath University**.
+
+I love building **clean, scalable web applications**, exploring **image processing and AI**, and contributing to impactful research. I value continuous learning, clean coding, and sharing knowledge.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Skills
 
-- Advanced Laravel
-- Image Processing and Deep Learning Models
-- Research Paper Writing and Publication
-- Full-stack best practices
+### 💻 Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</p>
 
----
+### 🌐 Web Development
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
-## 🗂️ Projects
-
-Here are some highlighted projects:
-
-### **Networking**
-- [Networking Practice Repository](https://github.com/krittikaroy0/Networking)
-
-### **Frontend Responsive Websites**
-- [Music Landing Page](https://krittikaroy0.github.io/Music/)
-- [E-commerce Site](https://krittikaroy0.github.io/E-commerce/)
-- [Educational Institute](https://krittikaroy0.github.io/educational-Institute/)
-- [Loud Music](https://krittikaroy0.github.io/loud-music/)
-- [Catering Services](https://krittikaroy0.github.io/catering_services/)
-- [Mundana Website](https://krittikaroy0.github.io/Mundana_Website/)
-
-### **Full Stack**
-- [Online Health Care System](https://github.com/krittikaroy0/Online_Health_Care)
-- [Project CSE479](https://github.com/krittikaroy0/CSE479)
-
-### **Java**
-- [CSE110 JAVA Project](https://github.com/krittikaroy0/CSE110-JAVA_PROJECT)
-
-### **Image Processing**
-- [Image Processing Projects](https://github.com/krittikaroy0/CSE407)
-
-### **Data Science**
-- [Data Science Projects](https://github.com/krittikaroy0/CSE303)
-
-### **AI**
-- [AI Projects](https://github.com/krittikaroy0/CSE366_AI)
+### 🛠 Tools & Technologies
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 ---
 
-## 📰 Research & Publications
+## 📌 Featured Projects
 
-- *Enhancing Performance of Abstractive Multi–Document Update Summarization on TAC Dataset.*
-- *Development of a Nano-Coating Based Solution for Surface Dirt Removal on Solar Panels using Deep Learning.*
-- *Numismatic Heritage of Coin Dataset Bangladesh* [Mendeley Data](https://data.mendeley.com/datasets/w5zspm82zd/1)
+### 🖥️ Web Projects
+- 🎶 [Music Landing Page](https://krittikaroy0.github.io/Music/)
+- 🛍️ [E-commerce Site](https://krittikaroy0.github.io/E-commerce/)
+- 🏫 [Educational Institute](https://krittikaroy0.github.io/educational-Institute/)
+- 🍽️ [Catering Services](https://krittikaroy0.github.io/catering_services/)
+- 📰 [Mundana Blog](https://krittikaroy0.github.io/Mundana_Website/)
+
+### 💡 Full Stack
+- 💻 [Online Health Care System](https://github.com/krittikaroy0/Online_Health_Care)
+- 🛠️ [CSE479 Full Stack Project](https://github.com/krittikaroy0/CSE479)
+
+### 🧑‍💻 Others
+- 🌐 [Networking Practice](https://github.com/krittikaroy0/Networking)
+- 🖼️ [Image Processing](https://github.com/krittikaroy0/CSE407)
+- 📊 [Data Science](https://github.com/krittikaroy0/CSE303)
+- 🤖 [AI Projects](https://github.com/krittikaroy0/CSE366_AI)
+- ☕ [Java Project](https://github.com/krittikaroy0/CSE110-JAVA_PROJECT)
+
+---
+
+## 📑 Research & Publications
+
+- **Enhancing Performance of Abstractive Multi–Document Update Summarization on TAC Dataset**
+- **Deep Learning Nano-Coating Solution for Solar Panel Dirt Removal**
+- **Numismatic Heritage of Coin Dataset Bangladesh** ([View](https://data.mendeley.com/datasets/w5zspm82zd/1))
 
 ---
 
 ## 📈 GitHub Stats
 
-![Krittika's GitHub stats](https://github-readme-stats.vercel.app/api?username=krittikaroy0&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krittikaroy0&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krittikaroy0&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let’s Connect
 
-- 📧 Email: [krittikaroy2020@gmail.com](mailto:krittikaroy2020@gmail.com)
+- ✉️ [Email](mailto:krittikaroy2020@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krittika-roy-516629281/)
 - 🌐 [Portfolio](https://krittikaroy0.github.io/portfolio/)
 - 🌲 [Linktree](https://linktr.ee/krittikaroy2001)
 
 ---
 
-> “Code, Learn, Share, and Repeat.” 🚀
+> *“Code with purpose. Learn with curiosity. Build with passion.”* 🚀
