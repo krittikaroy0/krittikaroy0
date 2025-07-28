@@ -1,25 +1,18 @@
-Here's a **refined, more professional version** of your GitHub README profile. It maintains your strengths while improving structure, grammar, and clarity:
 
----
 
-<h1 align="center">👩‍💻 Krittika Roy</h1>
+<h1 align="center fs bold"> Krittika Roy</h1>
 
 <p align="center">
-🎓 CSE Graduate & M.Sc. Student | 🔬 Research Assistant | 💻 Developer <br>
+🎓 **CSE Graduate & M.Sc. Student** | 🔬 **Research Assistant** | 💻 **Web Developer** <br>
 <a href="https://krittikaroy0.github.io/portfolio/">🌐 Portfolio</a> • 
 <a href="https://www.linkedin.com/in/krittika-roy-516629281/">💼 LinkedIn</a> • 
 <a href="mailto:krittikaroy2020@gmail.com">✉️ Email</a>
 </p>
 
----
 
 ## 👩‍💼 About Me
 
-Hello! I’m **Krittika Roy**, a dedicated **Computer Science & Engineering graduate** currently pursuing my **M.Sc. in CSE** at **Jagannath University** and working as a **Research Assistant** at **East West University**.
-
-I’m passionate about building clean, scalable applications, researching image processing and AI, and sharing knowledge through meaningful work. I enjoy learning new technologies and applying them to solve real-world problems.
-
----
+I am a dedicated and passionate **Computer Science and Engineering graduate** seeking a full-time position in a dynamic environment that presents greater challenges. My goal is to leverage my skills and gain further experience while contributing to the organization's efficiency and productivity. I possess a strong foundation in **software development**, with proficiency in programming languages such as **C, Java, and Python**. Additionally, I have hands-on experience with web development technologies, including **HTML, PHP, CSS, Bootstrap, and JavaScript**. Beyond software development, I have a keen interest in networking, research paper writing, and data entry. I am eager to apply my diverse skill set to help drive the organization forward.
 
 ## 🛠️ Technical Skills
 
@@ -59,30 +52,20 @@ I’m passionate about building clean, scalable applications, researching image 
 **🔬 Research Assistant**
 *East West University* | May 2025 – Present
 
-* Working on image processing and AI research projects
-* Contributing to academic publications and experimental frameworks
-
 **💻 Web Intern (Remote)**
 *Business Automation Ltd.* | Jan 2025 – Apr 2025
-
 * Involved in the WebCraft program, contributing to full-stack development tasks
 
 **🎥 IT Support & Media Editor (Part-time)**
 *Solvers* | Jan 2025 – Feb 2025
-
 * Worked in data entry, video editing, and general IT support
 
----
-
 ## 🎓 Education
-
 * **M.Sc. in Computer Science & Engineering**, Jagannath University (2025 – Present)
+  
 * **B.Sc. in Computer Science & Engineering**, East West University (2020 – 2024)
-
   * Major: Software
   * CGPA: 3.49 / 4.00
-
----
 
 ## 🚀 Projects
 
@@ -110,12 +93,18 @@ I’m passionate about building clean, scalable applications, researching image 
 ---
 
 ## 📚 Research & Publications
+<ol>
+ <li>
+ Marwa Khanom Nurtaj, Rafsan Bari Shafin, Md Nahid Hasan, **Krittika Roy**, M. Saddam Hossain Khan, Rashedul Amin Tuhin, Md. Mohsin Uddin,“**Enhancing Performance of Abstractive Multi–Document Update Summarization on TAC Dataset.**”
+</li>
+<li>
+ Shafika Sikander, Nowshin Tasnia, **Krittika Roy**, Mahabub Hasan Shamim, Sanjeda Sara Jennifer and Ahmed Wasif Reza,“**Development of a Nano-Coating Based Solution for Surface Dirt Removal on Solar Panels using Deep Learning.**”
+</li>
+<li>
+ **Numismatic Heritage of Coin Dataset Bangladesh** ([Dataset](https://data.mendeley.com/datasets/w5zspm82zd/1))
+</li>
+</ol>
 
-* **Enhancing Performance of Abstractive Multi–Document Update Summarization on TAC Dataset**
-* **Deep Learning Nano-Coating Solution for Solar Panel Dirt Removal**
-* **Numismatic Heritage of Coin Dataset Bangladesh** ([Dataset](https://data.mendeley.com/datasets/w5zspm82zd/1))
-
----
 
 ## 📊 GitHub Stats
 
@@ -128,34 +117,36 @@ I’m passionate about building clean, scalable applications, researching image 
 ---
 
 ## 🎓 Certifications & Trainings
+<ol>
+ <li>
+  One month training in “BYLC (CareerX23)”.
+ </li>
+ <li>
+ Three days training in “WIT institute (Graphic Design)”.
+ </li>
+ <li>
+  One day training in “Microsoft Azure Administration”.
+ </li>
+ <li>
+  Three-month training in “NSDA (Web Design and Development for Freelancing Level -3) from Pencil Box”.
+ </li>
+ <li>
+  Three days training in “WIT institute (Degital Marketing)”.
+ </li>
+ <li>
+Training in Laravel “Full Stack Web Development”.
+ </li>
 
-* BYLC CareerX23 (1 month)
-* NSDA Web Design & Development (3 months)
-* Microsoft Azure Administration (1 day)
-* WIT Institute – Graphic Design & Digital Marketing
-* Laravel Full-Stack Web Development Bootcamp
-
----
+</ol>
 
 ## 🌟 Extracurricular Involvement
 
-**Intern Volunteer**
-*Society for the Popularization of Science, Bangladesh (SPSB)*
-Apr 2025 – Present
-
+**Organization:**Society for the Popularization of Science, Bangladesh (SPSB).
+**Position:**Internship, Voluntar
+**Company:**Level 12, Green City Center, 758 Satmasjid Road, Dhaka, Bangladesh
+**Duration:** April 2025 to Present.
 * Participated in seminars, workshops, and research events
 
----
-
-## 🤝 Connect with Me
-
-* ✉️ [Email Me](mailto:krittikaroy2020@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/krittika-roy-516629281/)
-* 🌐 [Portfolio Website](https://krittikaroy0.github.io/portfolio/)
-* 🌲 [Linktree](https://linktr.ee/krittikaroy2001)
-
----
-
-> *“Code with purpose. Learn with curiosity. Build with passion.”* 🚀
+> 
 
 
