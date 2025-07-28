@@ -1,18 +1,19 @@
-
-
-<h1 align="center fs bold"> Krittika Roy</h1>
+<h1 align="center"><strong>Krittika Roy</strong></h1>
 
 <p align="center">
-🎓 **CSE Graduate & M.Sc. Student** | 🔬 **Research Assistant** | 💻 **Web Developer** <br>
+🎓 <strong>CSE Graduate & M.Sc. Student</strong> | 🔬 <strong>Research Assistant</strong> | 💻 <strong>Web Developer</strong> <br>
 <a href="https://krittikaroy0.github.io/portfolio/">🌐 Portfolio</a> • 
 <a href="https://www.linkedin.com/in/krittika-roy-516629281/">💼 LinkedIn</a> • 
 <a href="mailto:krittikaroy2020@gmail.com">✉️ Email</a>
 </p>
 
+---
 
 ## 👩‍💼 About Me
 
-I am a dedicated and passionate **Computer Science and Engineering graduate** seeking a full-time position in a dynamic environment that presents greater challenges. My goal is to leverage my skills and gain further experience while contributing to the organization's efficiency and productivity. I possess a strong foundation in **software development**, with proficiency in programming languages such as **C, Java, and Python**. Additionally, I have hands-on experience with web development technologies, including **HTML, PHP, CSS, Bootstrap, and JavaScript**. Beyond software development, I have a keen interest in networking, research paper writing, and data entry. I am eager to apply my diverse skill set to help drive the organization forward.
+I am a dedicated and passionate **Computer Science and Engineering graduate**, currently pursuing an M.Sc. at Jagannath University and working as a **Research Assistant** at East West University. I aim to apply my strong foundation in **software development** and **web technologies** to contribute to impactful and scalable projects. I am proficient in **C, Java, Python**, and web technologies like **HTML, CSS, JavaScript, PHP, Laravel**, and **MySQL**. I also have interests in **networking, AI research, and data-driven solutions**.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -49,104 +50,98 @@ I am a dedicated and passionate **Computer Science and Engineering graduate** se
 
 ## 💼 Professional Experience
 
-**🔬 Research Assistant**
+**🔬 Research Assistant**  
 *East West University* | May 2025 – Present
 
-**💻 Web Intern (Remote)**
-*Business Automation Ltd.* | Jan 2025 – Apr 2025
-* Involved in the WebCraft program, contributing to full-stack development tasks
+**💻 Web Intern (Remote)**  
+*Business Automation Ltd.* | Jan 2025 – Apr 2025  
+• Contributed to full-stack development through the WebCraft program.
 
-**🎥 IT Support & Media Editor (Part-time)**
-*Solvers* | Jan 2025 – Feb 2025
-* Worked in data entry, video editing, and general IT support
+**🎥 IT Support & Media Editor (Part-Time)**  
+*Solvers* | Jan 2025 – Feb 2025  
+• Performed data entry, video editing, and IT support tasks.
+
+---
 
 ## 🎓 Education
-* **M.Sc. in Computer Science & Engineering**, Jagannath University (2025 – Present)
-  
-* **B.Sc. in Computer Science & Engineering**, East West University (2020 – 2024)
-  * Major: Software
-  * CGPA: 3.49 / 4.00
+
+- **M.Sc. in Computer Science & Engineering**, Jagannath University (2025 – Present)  
+- **B.Sc. in Computer Science & Engineering**, East West University (2020 – 2024)  
+  - Major: Software  
+  - CGPA: 3.49 / 4.00  
+
+---
 
 ## 🚀 Projects
 
 ### 🌐 Web Projects
 
-* 🎶 [Music Landing Page](https://krittikaroy0.github.io/Music/)
-* 🛍️ [E-commerce Website](https://krittikaroy0.github.io/E-commerce/)
-* 🏫 [Educational Institute](https://krittikaroy0.github.io/educational-Institute/)
-* 🍽️ [Catering Services](https://krittikaroy0.github.io/catering_services/)
-* 📰 [Mundana Blog](https://krittikaroy0.github.io/Mundana_Website/)
+- 🎶 [Music Landing Page](https://krittikaroy0.github.io/Music/)
+- 🛍️ [E-commerce Website](https://krittikaroy0.github.io/E-commerce/)
+- 🏫 [Educational Institute](https://krittikaroy0.github.io/educational-Institute/)
+- 🍽️ [Catering Services](https://krittikaroy0.github.io/catering_services/)
+- 📰 [Mundana Blog](https://krittikaroy0.github.io/Mundana_Website/)
 
 ### 💡 Full-Stack Projects
 
-* 💻 [Online Health Care System](https://github.com/krittikaroy0/Online_Health_Care)
-* 🛠️ [CSE479 Full Stack Project](https://github.com/krittikaroy0/CSE479)
+- 💻 [Online Health Care System](https://github.com/krittikaroy0/Online_Health_Care)
+- 🛠️ [CSE479 Full Stack Project](https://github.com/krittikaroy0/CSE479)
 
 ### 🔍 Other Projects
 
-* 🌐 [Networking Practice](https://github.com/krittikaroy0/Networking)
-* 🖼️ [Image Processing](https://github.com/krittikaroy0/CSE407)
-* 📊 [Data Science](https://github.com/krittikaroy0/CSE303)
-* 🤖 [AI Projects](https://github.com/krittikaroy0/CSE366_AI)
-* ☕ [Java Project](https://github.com/krittikaroy0/CSE110-JAVA_PROJECT)
+- 🌐 [Networking Practice](https://github.com/krittikaroy0/Networking)
+- 🖼️ [Image Processing](https://github.com/krittikaroy0/CSE407)
+- 📊 [Data Science](https://github.com/krittikaroy0/CSE303)
+- 🤖 [AI Projects](https://github.com/krittikaroy0/CSE366_AI)
+- ☕ [Java Project](https://github.com/krittikaroy0/CSE110-JAVA_PROJECT)
 
 ---
 
 ## 📚 Research & Publications
-<ol>
- <li>
- Marwa Khanom Nurtaj, Rafsan Bari Shafin, Md Nahid Hasan, **Krittika Roy**, M. Saddam Hossain Khan, Rashedul Amin Tuhin, Md. Mohsin Uddin,“**Enhancing Performance of Abstractive Multi–Document Update Summarization on TAC Dataset.**”
-</li>
-<li>
- Shafika Sikander, Nowshin Tasnia, **Krittika Roy**, Mahabub Hasan Shamim, Sanjeda Sara Jennifer and Ahmed Wasif Reza,“**Development of a Nano-Coating Based Solution for Surface Dirt Removal on Solar Panels using Deep Learning.**”
-</li>
-<li>
- **Numismatic Heritage of Coin Dataset Bangladesh** ([Dataset](https://data.mendeley.com/datasets/w5zspm82zd/1))
-</li>
-</ol>
 
+1. **Enhancing Performance of Abstractive Multi–Document Update Summarization on TAC Dataset**  
+   _Marwa Khanom Nurtaj, Rafsan Bari Shafin, Md Nahid Hasan, Krittika Roy, M. Saddam Hossain Khan, Rashedul Amin Tuhin, Md. Mohsin Uddin_
+
+2. **Development of a Nano-Coating Based Solution for Surface Dirt Removal on Solar Panels using Deep Learning**  
+   _Shafika Sikander, Nowshin Tasnia, Krittika Roy, Mahabub Hasan Shamim, Sanjeda Sara Jennifer, Ahmed Wasif Reza_
+
+3. **Numismatic Heritage of Coin Dataset Bangladesh** – [View Dataset](https://data.mendeley.com/datasets/w5zspm82zd/1)
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krittikaroy0&show_icons=true&theme=onedark&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krittikaroy0&theme=onedark&hide_border=true" />
+  <a href="https://github.com/krittikaroy0">
+    <img src="https://github-readme-stats.vercel.app/api?username=krittikaroy0&show_icons=true&theme=onedark&hide_border=true" alt="Krittika's GitHub Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/krittikaroy0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krittikaroy0&theme=onedark&hide_border=true" alt="Krittika's GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 ## 🎓 Certifications & Trainings
-<ol>
- <li>
-  One month training in “BYLC (CareerX23)”.
- </li>
- <li>
- Three days training in “WIT institute (Graphic Design)”.
- </li>
- <li>
-  One day training in “Microsoft Azure Administration”.
- </li>
- <li>
-  Three-month training in “NSDA (Web Design and Development for Freelancing Level -3) from Pencil Box”.
- </li>
- <li>
-  Three days training in “WIT institute (Degital Marketing)”.
- </li>
- <li>
-Training in Laravel “Full Stack Web Development”.
- </li>
 
-</ol>
+1. One-month training – **BYLC (CareerX23)**
+2. Three-day training – **WIT Institute (Graphic Design)**
+3. One-day workshop – **Microsoft Azure Administration**
+4. Three-month program – **NSDA (Web Design & Development Level 3)** by Pencil Box
+5. Three-day course – **WIT Institute (Digital Marketing)**
+6. Laravel Bootcamp – **Full Stack Web Development**
+
+---
 
 ## 🌟 Extracurricular Involvement
 
-**Organization:**Society for the Popularization of Science, Bangladesh (SPSB).
-**Position:**Internship, Voluntar
-**Company:**Level 12, Green City Center, 758 Satmasjid Road, Dhaka, Bangladesh
-**Duration:** April 2025 to Present.
-* Participated in seminars, workshops, and research events
+**Intern Volunteer**  
+*Society for the Popularization of Science, Bangladesh (SPSB)*  
+📍 Level 12, Green City Center, 758 Satmasjid Road, Dhaka  
+📅 April 2025 – Present  
+• Participated in seminars, workshops, and contributed to research discussions
 
-> 
+---
 
-
+> _“Code with purpose. Learn with curiosity. Build with passion.”_ 🚀
